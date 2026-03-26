@@ -8,7 +8,7 @@ A simple C program that cleans text files by removing invalid characters and dup
 This program reads a text file and removes all characters that are not in the allowed set:
 - Latin letters: `a-z`, `A-Z`
 - Digits: `0-9`
-- Punctuation marks: `|,.-+=/*:%;!?{}[]()@<>&#~\"'```
+- Punctuation marks: `|,.-+=/*:%;!?{}[]()@<>&#~\"'`
 - Whitespace characters: space, tab, newline, carriage return
 
 Additionally, the program removes duplicate consecutive characters to prevent repetitions.
