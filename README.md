@@ -1,4 +1,4 @@
-```markdown
+
 # Text Cleaner
 
 A simple C program that cleans text files by removing invalid characters and duplicates.
